@@ -4,7 +4,7 @@ port = 7125
 klippy_uds_address = /home/biqu/printer_data/comms/klippy.sock
 
 [spoolman]
-server = http://127.0.0.1:7912
+server = https://spoolman.nicoskaralis.me
 sync_rate = 5
 
 [mqtt]
